@@ -102,3 +102,47 @@ dist
 
 # TernJS port file
 .tern-port
+
+#ignore files
+bootstrap-5.0.2-dist.zip
+starter/css/bootstrap-grid.css
+starter/css/bootstrap-grid.min.css
+starter/css/bootstrap-grid.css.map
+starter/css/bootstrap-grid.min.css.map
+starter/css/bootstrap-grid.rtl.css
+starter/css/bootstrap-grid.rtl.css.map
+starter/css/bootstrap-grid.rtl.min.css
+starter/css/bootstrap-grid.rtl.min.css.map
+starter/css/bootstrap-reboot.css
+starter/css/bootstrap-reboot.min.css
+starter/css/bootstrap-reboot.css.map
+starter/css/bootstrap-reboot.min.css.map
+starter/css/bootstrap-reboot.rtl.css
+starter/css/bootstrap-reboot.rtl.css.map
+starter/css/bootstrap-reboot.rtl.min.css
+starter/css/bootstrap-reboot.rtl.min.css.map
+starter/css/bootstrap-utilities.css
+starter/css/bootstrap-utilities.min.css
+starter/css/bootstrap-utilities.css.map
+starter/css/bootstrap-utilities.min.css.map
+starter/css/bootstrap-utilities.rtl.css
+starter/css/bootstrap-utilities.rtl.css.map
+starter/css/bootstrap-utilities.rtl.min.css
+starter/css/bootstrap-utilities.rtl.min.css.map
+starter/css/bootstrap.css
+starter/css/bootstrap.css.map
+starter/css/bootstrap.min.css.map
+starter/css/bootstrap.rtl.css
+starter/css/bootstrap.rtl.css.map
+starter/css/bootstrap.rtl.min.css
+starter/css/bootstrap.rtl.min.css.map
+starter/js/bootstrap.bundle.js
+starter/js/bootstrap.bundle.js.map
+starter/js/bootstrap.bundle.min.js.map
+starter/js/bootstrap.esm.js
+starter/js/bootstrap.esm.js.map
+starter/js/bootstrap.esm.min.js.map
+starter/js/bootstrap.js
+starter/js/bootstrap.js.map
+starter/js/bootstrap.min.js.map
+starter/js/bootstrap.esm.min.js
